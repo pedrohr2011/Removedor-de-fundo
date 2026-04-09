@@ -42,7 +42,7 @@ Um script simples em Python que usei para automatizar a remoção de fundo de im
 - Cospe um arquivo PNG com fundo transparente.
 - Funciona direto no seu computador.
 
-### Pra rodar aí:
+### Para rodar na sua máquina:
 Você vai precisar do Python instalado. O script usa dois pacotes principais:
 
 ```bash
